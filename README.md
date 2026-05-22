@@ -128,8 +128,8 @@ I am a Full-Stack Developer based in Misamis Oriental, Philippines. I specialize
 ### GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blutech18&show_icons=true&theme=tokyonight&hide_border=true" alt="Cristan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blutech18&layout=compact&theme=tokyonight&hide_border=true" alt="Cristan's Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma.vercel.app/api?username=blutech18&show_icons=true&theme=tokyonight&hide_border=true" alt="Cristan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=blutech18&layout=compact&theme=tokyonight&hide_border=true" alt="Cristan's Top Languages" width="48%" />
 </p>
 
 <p align="center">
