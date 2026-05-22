@@ -38,7 +38,7 @@
 
 ### About Me
 
-<img align="right" src="cjj-photo.png" width="180" alt="Cristan Jade Jumawan" />
+<img align="right" src="cjj-photo.svg" width="180" alt="Cristan Jade Jumawan" />
 
 I am a Full-Stack Developer based in Misamis Oriental, Philippines. I specialize in building responsive web applications, secure mobile solutions, and automating workflows. As a BS in Information Technology graduate (with Honors & Outstanding Intern) from Liceo de Cagayan University, I combine solid engineering principles with modern developer workflows.
 
