@@ -23,6 +23,9 @@
   <a href="https://www.instagram.com/c.jade14/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://www.tiktok.com/@cristanjade14">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
 </p>
 
 ---
@@ -90,27 +93,22 @@ I am a Full-Stack Developer based in Misamis Oriental, Philippines. I specialize
 #### MSEUF University Libraries Portal
 * **Description:** A full-stack AI-powered library system featuring ROSe, a chatbot virtual librarian powered by Google Gemini. Includes a real-time book catalog and a comprehensive staff management dashboard.
 * **Tech:** Next.js, Convex, Zustand, Google Gemini API.
-* **Repository:** [github.com/blutech18](https://github.com/blutech18)
 
 #### UniTalk
 * **Description:** A secure, full-stack communication platform designed for correctional facilities to coordinate and monitor external contact safety.
 * **Tech:** Laravel, Node.js, Twilio.
-* **Repository:** [github.com/blutech18](https://github.com/blutech18)
 
 #### Liceo Clinic
 * **Description:** A real-time appointment and consultation scheduling system built for university students and clinic staff, significantly reducing check-in wait times.
 * **Tech:** React, Supabase.
-* **Repository:** [github.com/blutech18](https://github.com/blutech18)
 
 #### Liceo Tabulation
 * **Description:** An automated real-time scoring and tabulation platform built for university-wide pageants and dance competitions.
 * **Tech:** React, Supabase.
-* **Repository:** [github.com/blutech18](https://github.com/blutech18)
 
 #### HopeLink
-* **Description:** A community donation management platform matching local sponsors with families in need of relief.
+* **Description:** Won 3rd Place Best Paper Award in the Oral Paper Presentation (Engineering and Information Technology) at the 10th Annual Intercollegiate Research Colloquium. HopeLink is an intelligent donation management and matching system built with a parameter-driven matching algorithm.
 * **Tech:** React, Node.js, Supabase, Google Maps API.
-* **Repository:** [github.com/blutech18](https://github.com/blutech18)
 
 ---
 
