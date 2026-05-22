@@ -1,6 +1,12 @@
 # Hi, I'm Cristan Jade Jumawan, Building Beyond Limits at BluTech
 
 <p align="center">
+  <img src="blutech-logo.png" alt="BluTech Logo" width="120" />
+  <br />
+  <img src="text-logo.png" alt="BluTech" width="320" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&center=true&vCenter=true&lines=Full-Stack+Developer;BluTech+Freelance;Wizardry+Society+Pres;AI+Power+User" alt="Typing SVG" />
 </p>
 
@@ -31,6 +37,8 @@
 ---
 
 ### About Me
+
+<img align="right" src="cjj-photo.png" width="180" alt="Cristan Jade Jumawan" />
 
 I am a Full-Stack Developer based in Misamis Oriental, Philippines. I specialize in building responsive web applications, secure mobile solutions, and automating workflows. As a BS in Information Technology graduate (with Honors & Outstanding Intern) from Liceo de Cagayan University, I combine solid engineering principles with modern developer workflows.
 
