@@ -1,4 +1,4 @@
-# Hi, I'm Cristan Jade Jumawan and I love animals
+# Cristan Jade Jumawan | Founder & Full-Stack Developer at BluTech
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&center=true&vCenter=true&lines=Full-Stack+Developer;BluTech+Freelance;Wizardry+Society+Pres;AI+Power+User" alt="Typing SVG" />
