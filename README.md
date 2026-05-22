@@ -1,10 +1,11 @@
-# Cristan Jade Jumawan - Fresh Graduate Full-Stack Developer
+# Cristan Jade Jumawan
+> Fresh Graduate Full-Stack Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&center=true&vCenter=true&lines=Full-Stack+Developer;BluTech+Freelance;Wizardry+Society+Pres;AI+Power+User" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Developer;Freelance+at+BluTech;Wizardry+Society+Pres;AI+Power+User" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://cjjumawan.com">
     <img src="https://img.shields.io/badge/cjjumawan.com-36BCF7?style=flat-square&logo=google-chrome&logoColor=white" alt="cjjumawan.com" />
   </a>
