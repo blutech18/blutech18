@@ -1,4 +1,7 @@
-# Cristan Jade Jumawan
+<h1 align="center">Cristan Jade Jumawan</h1>
+<p align="center">
+  <b>Full-Stack Developer & Software Engineer</b>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&center=true&vCenter=true&lines=Full-Stack+Developer;BluTech+Freelance;Wizardry+Society+Pres;AI+Power+User" alt="Typing SVG" />
