@@ -36,6 +36,7 @@ I am a Full-Stack Developer based in Misamis Oriental, Philippines. I specialize
 
 - **Education:** Bachelor of Science in Information Technology (Honors & Outstanding Intern) at Liceo de Cagayan University.
 - **Freelance Developer:** Building web and mobile applications for clients under BluTech (2024 - Present).
+- **Internship Experience:** Collaborated with the Dean and IT Department at Liceo de Cagayan University to digitize and automate university-wide manual processes using React, Zustand, Supabase, and Google Apps Script (January 2026 - April 2026). Also contributed to the development of the official Educational Technology Office (EdTech) website.
 - **AI & Next-Gen Workflows:** Passionate about leveraging advanced AI tools like Antigravity, Cursor, Windsurf, and LLMs to accelerate development velocity and maintain high code quality.
 - **Leadership:** Former President (2024-2025) and current Vice President (2025-2026) of the Wizardry Society.
 - **Credentials:** TOPCIT Exam Level 3 (2025) | Hack4Gov Participant (2024).
@@ -52,6 +53,7 @@ I am a Full-Stack Developer based in Misamis Oriental, Philippines. I specialize
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
@@ -70,6 +72,8 @@ I am a Full-Stack Developer based in Misamis Oriental, Philippines. I specialize
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)](https://neon.tech/)
 
 </details>
 
@@ -80,6 +84,7 @@ I am a Full-Stack Developer based in Misamis Oriental, Philippines. I specialize
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Railway](https://img.shields.io/badge/Railway-130B24?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
+[![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)](https://www.hostinger.com/)
 [![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)](https://deepmind.google/)
 [![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh/)
 [![Windsurf](https://img.shields.io/badge/Windsurf-121011?style=for-the-badge&logo=codeium&logoColor=white)](https://codeium.com/windsurf)
