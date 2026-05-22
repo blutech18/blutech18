@@ -1,104 +1,117 @@
-# Hi there! I'm BluTech Solution 👋
+# Hi there! I'm Cristan Jade Jumawan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Developer;BluTech+Freelance;Wizardry+Society+Pres;AI+Power+User" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/cjjumawan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cristanjade14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/blutech18">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 ### 💫 About Me
 
-I am a passionate and versatile **Full Stack Developer** dedicated to building high-performance web applications, robust backend services, and scalable cloud architectures. With a strong foundation across the entire software development lifecycle, I enjoy turning complex problems into elegant, maintainable code.
+I am a **Full-Stack Developer** based in Misamis Oriental, Philippines. I specialize in building responsive web applications, secure mobile solutions, and automating workflows. As a BS in Information Technology graduate (with Honors & Outstanding Intern) from **Liceo de Cagayan University**, I combine solid engineering principles with modern developer workflows.
 
-- 🔭 **Current Focus:** Developing scalable cloud-native architectures and modern web applications.
-- 🌱 **Learning & Exploring:** Rust ecosystems, WebAssembly, and advanced Kubernetes orchestration.
-- 👯 **Collaboration:** Open to collaborating on innovative open-source projects and developer tools.
-- 💬 **Ask me about:** React/Next.js, FastAPI, Spring Boot, Go, Docker, or DB performance optimization.
-- 📫 **Contact:** Reach me at [blutech18@gmail.com](mailto:blutech18@gmail.com)
+- 🎓 **Education:** Bachelor of Science in Information Technology (Honors & Outstanding Intern) @ Liceo de Cagayan University
+- 💼 **Freelance Developer:** Building web & mobile apps for clients under **BluTech** (2024 - Present).
+- 🧠 **AI & Next-Gen Workflows:** Passionate about leveraging advanced AI tools like **Antigravity**, **Cursor**, **Windsurf**, and LLMs to accelerate development velocity and maintain high code quality.
+- 🧙‍♂️ **Leadership:** Former President (2024-2025) and current Vice President (2025-2026) of the **Wizardry Society**.
+- 🏆 **Credentials:** TOPCIT Exam Level 3 (2025) | Hack4Gov Participant (2024).
 
 ---
 
 ### 🛠️ Tech Stack & Toolbox
 
 <details open>
-<summary><b>Frontend & Design</b></summary>
+<summary><b>Languages, Frameworks & Frontend</b></summary>
 <br/>
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
 </details>
 
 <details open>
-<summary><b>Backend & Systems</b></summary>
+<summary><b>Backend, Databases & BaaS</b></summary>
 <br/>
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-
-</details>
-
-<details open>
-<summary><b>Mobile Development</b></summary>
-<br/>
-
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
-
-</details>
-
-<details open>
-<summary><b>Databases & Infrastructure</b></summary>
-<br/>
-
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Convex](https://img.shields.io/badge/Convex-FF4B4B?style=for-the-badge&logo=convex&logoColor=white)](https://convex.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 </details>
+
+<details open>
+<summary><b>DevOps, Deployment & AI IDEs</b></summary>
+<br/>
+
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Railway](https://img.shields.io/badge/Railway-130B24?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
+[![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)](https://deepmind.google/)
+[![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh/)
+[![Windsurf](https://img.shields.io/badge/Windsurf-121011?style=for-the-badge&logo=codeium&logoColor=white)](https://codeium.com/windsurf)
+
+</details>
+
+---
+
+### 📂 Featured Projects
+
+#### 🤖 [MSEUF University Libraries Portal](https://github.com/blutech18)
+* **Description:** A full-stack AI-powered library system featuring **ROSe**, a chatbot virtual librarian powered by **Google Gemini**. Includes a real-time book catalog and a comprehensive staff management dashboard.
+* **Tech:** Next.js, Convex, Zustand, Google Gemini API.
+
+#### 💬 [UniTalk](https://github.com/blutech18)
+* **Description:** A secure, full-stack communication platform designed for correctional facilities to coordinate and monitor external contact safety.
+* **Tech:** Laravel, Node.js, Twilio.
+
+#### 🏥 [Liceo Clinic](https://github.com/blutech18)
+* **Description:** A real-time appointment and consultation scheduling system built for university students and clinic staff, significantly reducing check-in wait times.
+* **Tech:** React, Supabase.
+
+#### 🏆 [Liceo Tabulation](https://github.com/blutech18)
+* **Description:** An automated real-time scoring and tabulation platform built for university-wide pageants and dance competitions.
+* **Tech:** React, Supabase.
+
+#### 🤝 [HopeLink](https://github.com/blutech18)
+* **Description:** A community donation management platform matching local sponsors with families in need of relief.
+* **Tech:** React, Node.js, Supabase, Google Maps API.
 
 ---
 
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blutech18&show_icons=true&theme=tokyonight&hide_border=true" alt="blutech18's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blutech18&layout=compact&theme=tokyonight&hide_border=true" alt="blutech18's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blutech18&show_icons=true&theme=tokyonight&hide_border=true" alt="Cristan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blutech18&layout=compact&theme=tokyonight&hide_border=true" alt="Cristan's Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blutech18&theme=tokyonight&hide_border=true" alt="blutech18's GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blutech18&theme=tokyonight&hide_border=true" alt="Cristan's GitHub Streak" width="98%" />
 </p>
 
 ---
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="mailto:blutech18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/blutech18">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 <p align="right">
   <i>Let's build something amazing together! 🚀</i>
