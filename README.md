@@ -1,36 +1,45 @@
-# Hi there! I'm Cristan Jade Jumawan 👋
+# Cristan Jade Jumawan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Developer;BluTech+Freelance;Wizardry+Society+Pres;AI+Power+User" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&center=true&vCenter=true&lines=Full-Stack+Developer;BluTech+Freelance;Wizardry+Society+Pres;AI+Power+User" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <a href="https://cjjumawan.com">
+    <img src="https://img.shields.io/badge/cjjumawan.com-36BCF7?style=flat-square&logo=google-chrome&logoColor=white" alt="cjjumawan.com" />
+  </a>
+  <a href="https://blutechnology.org">
+    <img src="https://img.shields.io/badge/blutechnology.org-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="blutechnology.org" />
+  </a>
   <a href="https://linkedin.com/in/cjjumawan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:cristanjade14@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/blutech18">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.facebook.com/cristanjade14">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/c.jade14/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-### 💫 About Me
+### About Me
 
-I am a **Full-Stack Developer** based in Misamis Oriental, Philippines. I specialize in building responsive web applications, secure mobile solutions, and automating workflows. As a BS in Information Technology graduate (with Honors & Outstanding Intern) from **Liceo de Cagayan University**, I combine solid engineering principles with modern developer workflows.
+I am a Full-Stack Developer based in Misamis Oriental, Philippines. I specialize in building responsive web applications, secure mobile solutions, and automating workflows. As a BS in Information Technology graduate (with Honors & Outstanding Intern) from Liceo de Cagayan University, I combine solid engineering principles with modern developer workflows.
 
-- 🎓 **Education:** Bachelor of Science in Information Technology (Honors & Outstanding Intern) @ Liceo de Cagayan University
-- 💼 **Freelance Developer:** Building web & mobile apps for clients under **BluTech** (2024 - Present).
-- 🧠 **AI & Next-Gen Workflows:** Passionate about leveraging advanced AI tools like **Antigravity**, **Cursor**, **Windsurf**, and LLMs to accelerate development velocity and maintain high code quality.
-- 🧙‍♂️ **Leadership:** Former President (2024-2025) and current Vice President (2025-2026) of the **Wizardry Society**.
-- 🏆 **Credentials:** TOPCIT Exam Level 3 (2025) | Hack4Gov Participant (2024).
+- **Education:** Bachelor of Science in Information Technology (Honors & Outstanding Intern) at Liceo de Cagayan University.
+- **Freelance Developer:** Building web and mobile applications for clients under BluTech (2024 - Present).
+- **AI & Next-Gen Workflows:** Passionate about leveraging advanced AI tools like Antigravity, Cursor, Windsurf, and LLMs to accelerate development velocity and maintain high code quality.
+- **Leadership:** Former President (2024-2025) and current Vice President (2025-2026) of the Wizardry Society.
+- **Credentials:** TOPCIT Exam Level 3 (2025) | Hack4Gov Participant (2024).
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### Tech Stack & Toolbox
 
 <details open>
 <summary><b>Languages, Frameworks & Frontend</b></summary>
@@ -76,31 +85,36 @@ I am a **Full-Stack Developer** based in Misamis Oriental, Philippines. I specia
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
-#### 🤖 [MSEUF University Libraries Portal](https://github.com/blutech18)
-* **Description:** A full-stack AI-powered library system featuring **ROSe**, a chatbot virtual librarian powered by **Google Gemini**. Includes a real-time book catalog and a comprehensive staff management dashboard.
+#### MSEUF University Libraries Portal
+* **Description:** A full-stack AI-powered library system featuring ROSe, a chatbot virtual librarian powered by Google Gemini. Includes a real-time book catalog and a comprehensive staff management dashboard.
 * **Tech:** Next.js, Convex, Zustand, Google Gemini API.
+* **Repository:** [github.com/blutech18](https://github.com/blutech18)
 
-#### 💬 [UniTalk](https://github.com/blutech18)
+#### UniTalk
 * **Description:** A secure, full-stack communication platform designed for correctional facilities to coordinate and monitor external contact safety.
 * **Tech:** Laravel, Node.js, Twilio.
+* **Repository:** [github.com/blutech18](https://github.com/blutech18)
 
-#### 🏥 [Liceo Clinic](https://github.com/blutech18)
+#### Liceo Clinic
 * **Description:** A real-time appointment and consultation scheduling system built for university students and clinic staff, significantly reducing check-in wait times.
 * **Tech:** React, Supabase.
+* **Repository:** [github.com/blutech18](https://github.com/blutech18)
 
-#### 🏆 [Liceo Tabulation](https://github.com/blutech18)
+#### Liceo Tabulation
 * **Description:** An automated real-time scoring and tabulation platform built for university-wide pageants and dance competitions.
 * **Tech:** React, Supabase.
+* **Repository:** [github.com/blutech18](https://github.com/blutech18)
 
-#### 🤝 [HopeLink](https://github.com/blutech18)
+#### HopeLink
 * **Description:** A community donation management platform matching local sponsors with families in need of relief.
 * **Tech:** React, Node.js, Supabase, Google Maps API.
+* **Repository:** [github.com/blutech18](https://github.com/blutech18)
 
 ---
 
-### 📊 GitHub Metrics
+### GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blutech18&show_icons=true&theme=tokyonight&hide_border=true" alt="Cristan's GitHub Stats" width="48%" />
@@ -114,5 +128,5 @@ I am a **Full-Stack Developer** based in Misamis Oriental, Philippines. I specia
 ---
 
 <p align="right">
-  <i>Let's build something amazing together! 🚀</i>
+  <i>Let's build something amazing together!</i>
 </p>
